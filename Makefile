@@ -1,5 +1,6 @@
 THEOS_DEVICE_IP = iphone
 ARCHS = arm64
+TARGET = iphone:clang:13.2:13.2
 
 INSTALL_TARGET_PROCESSES = Shortcuts
 
